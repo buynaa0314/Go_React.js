@@ -5,7 +5,7 @@ import (
 
 	client "_/C_/Users/ThinkPad/Desktop/Go_React.js"
 
-	"github.com/buynaa0314/golang-chat/pkg/websocket"
+	"github.com/buynaa0314/Go_React.js/pkg/websocket"
 )
 
 func serverWS(pool *websocket.Pool, w http.ResponseWriter, r *httpRequest) {

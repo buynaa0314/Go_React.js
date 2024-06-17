@@ -1,4 +1,4 @@
-module github.com/buynaa0314/goloang_chat
+module github.com/buynaa0314/Go_React.js
 
 go 1.16
 
